@@ -6,7 +6,7 @@ A react.js app that connects with https://whatdoestrumpthink.com/api-docs/index.
 - Fetch with React
 - Connecting to an API
 - Lifecycle methods & componentDidMount
-- Repurposing react components
+- Repurposing react components 
 
 Video: https://www.youtube.com/watch?v=uo8KPblxIUI
 
